@@ -1,0 +1,4 @@
+{
+  "/build/[sessionId]/page": "app/build/[sessionId]/page.js",
+  "/page": "app/page.js"
+}
